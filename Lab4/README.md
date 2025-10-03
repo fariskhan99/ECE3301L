@@ -1,5 +1,4 @@
-This lab expands on Assembly programming for the PIC18F4620, introducing arithmetic, logic, branching, and subroutine usage. Students implement basic operations, test flags,   
-and use subroutines selected by input switches to control LEDs.  
+This lab expands on Assembly programming for the PIC18F4620, introducing arithmetic, logic, branching, and subroutine usage. Students implement basic operations, test flags, and use subroutines selected by input switches to control LEDs.  
 
 ✅ Lab Tasks  
 
