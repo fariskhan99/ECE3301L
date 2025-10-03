@@ -36,6 +36,6 @@ This lab implements a digital voltmeter and ohmmeter using the PIC18F4620 with A
 
 - 7-segment display formatting with decimal point control.  
 
-UART serial output for debugging and measurement logging.
+- UART serial output for debugging and measurement logging.
 
-Multi-channel measurement design with LEDs and buzzer as range/status indicators.
+- Multi-channel measurement design with LEDs and buzzer as range/status indicators.
