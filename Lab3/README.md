@@ -1,3 +1,5 @@
+This lab introduces programming the PIC18F4620 microcontroller in Assembly using MPLAB X with MPASM. The goal is to translate C programs into Assembly while practicing subroutines, loops, and indirect addressing for hardware control  
+
 ✅ Lab Tasks
 
 - LED Blinking – Implement a delay subroutine to flash LEDs and verify timing with a logic analyzer.  
